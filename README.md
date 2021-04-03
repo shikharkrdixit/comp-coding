@@ -1,6 +1,6 @@
 Competitive Coding Practice Corner.
 I will update the codes as soon as I do them.
 #### In Progress...
-Language : **C++** & **C**
+- Language : **C++** & **C**
 
-Format : **.txt** for better readability.
+- Format : **.txt** for better readability.
