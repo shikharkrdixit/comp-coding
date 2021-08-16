@@ -14,10 +14,12 @@ vector<string> split(const string &);
  */
 
 int birthdayCakeCandles(vector<int> candles) {
+
     int sum=0;
     int max=*max_element(candles.begin(),candles.end());
     int ct=count(candles.begin(),candles.end(),max);
     return ct;
+
 }
 
 int main()
